@@ -12,7 +12,7 @@ function setup() {
    thickness=random(22,83);
    bullet.velocityX=speed;
    wall.shapeColor=(80,80,80);
-   bullet.shapeColor="white";
+   bullet.shapeColor="blue";
 }
 
 function draw() {
